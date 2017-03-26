@@ -1,1 +1,2 @@
 Teste com o Git!
+alteração com arquivo em stage area.
